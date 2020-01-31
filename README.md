@@ -16,8 +16,8 @@ vi. Decrypting the encrypted file to get a file shared.
 Use the package manager [pip3](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install pyopenssl
-pip install pycrypto
+pip3 install pyopenssl
+pip3 install pycrypto
 ```
 
 ## Usage
