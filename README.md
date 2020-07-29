@@ -9,6 +9,7 @@ iii. Encrypting a file that you choose using secret key chosen in i).
 iv. Sharing this secret key using your friend’s public key.
 
 v. Recovering the secret key using your friend’s private key.
+
 vi. Decrypting the encrypted file to get a file shared.
 
 ## Installation
